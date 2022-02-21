@@ -1,0 +1,2 @@
+# HibernateJPA
+Hibernate learning purpose
